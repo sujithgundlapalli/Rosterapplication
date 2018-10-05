@@ -1,0 +1,127 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <RosterPlan>
+    <ShiftType>RMS</ShiftType>
+    <Code>MS15</Code>
+    <TransportRequest>YES</TransportRequest>
+  </RosterPlan>
+  <RosterPlan>
+    <ShiftType>RNS</ShiftType>
+    <Code>MS08</Code>
+    <TransportRequest>YES</TransportRequest>
+  </RosterPlan>
+  <RosterPlan>
+    <ShiftType>RES</ShiftType>
+    <Code>MS02</Code>
+    <TransportRequest>YES</TransportRequest>
+  </RosterPlan>
+  <RosterPlan>
+    <ShiftType>Training</ShiftType>
+    <Code>MS05</Code>
+    <TransportRequest>YES</TransportRequest>
+  </RosterPlan>
+  <RosterPlan>
+    <ShiftType>OFF</ShiftType>
+    <Code>OFF</Code>
+    <TransportRequest>NO</TransportRequest>
+  </RosterPlan>
+  <RosterPlan>
+    <ShiftType>CO</ShiftType>
+    <Code>COFF</Code>
+    <TransportRequest>NO</TransportRequest>
+  </RosterPlan>
+  <RosterPlan>
+    <ShiftType>HOLIDAY</ShiftType>
+    <Code>HOLL</Code>
+    <TransportRequest>NO</TransportRequest>
+  </RosterPlan>
+  <RosterPlan>
+    <ShiftType>LEAVE</ShiftType>
+    <Code>LEAV</Code>
+    <TransportRequest>NO</TransportRequest>
+  </RosterPlan>
+  <RosterPlan>
+    <ShiftType>S1</ShiftType>
+    <Code>MS15</Code>
+    <TransportRequest>YES</TransportRequest>
+  </RosterPlan>
+  <RosterPlan>
+    <ShiftType>S2</ShiftType>
+    <Code>MS08</Code>
+    <TransportRequest>YES</TransportRequest>
+  </RosterPlan>
+  <RosterPlan>
+    <ShiftType>S3</ShiftType>
+    <Code>MS02</Code>
+    <TransportRequest>YES</TransportRequest>
+  </RosterPlan>
+  <RosterPlan>
+    <ShiftType>LEAVE</ShiftType>
+    <Code>LEAV</Code>
+    <TransportRequest>NO</TransportRequest>
+  </RosterPlan>
+  <RosterPlan>
+    <ShiftType>A</ShiftType>
+    <Code>MS08</Code>
+    <TransportRequest>YES</TransportRequest>
+  </RosterPlan>
+  <RosterPlan>
+    <ShiftType>M</ShiftType>
+    <Code>MS15</Code>
+    <TransportRequest>YES</TransportRequest>
+  </RosterPlan>
+  <RosterPlan>
+    <ShiftType>N</ShiftType>
+    <Code>MS02</Code>
+    <TransportRequest>YES</TransportRequest>
+  </RosterPlan>
+  <RosterPlan>
+    <ShiftType>WO</ShiftType>
+    <Code>OFF</Code>
+    <TransportRequest>NO</TransportRequest>
+  </RosterPlan>
+  <RosterPlan>
+    <ShiftType>C</ShiftType>
+    <Code>COFF</Code>
+    <TransportRequest>NO</TransportRequest>
+  </RosterPlan>
+  <RosterPlan>
+    <ShiftType>L</ShiftType>
+    <Code>LEAV</Code>
+    <TransportRequest>NO</TransportRequest>
+  </RosterPlan>
+  <RosterPlan>
+    <ShiftType>NA</ShiftType>
+    <Code>TBD</Code>
+    <TransportRequest>NO</TransportRequest>
+  </RosterPlan>
+  <RosterPlan>
+    <ShiftType>G</ShiftType>
+    <Code>MS12</Code>
+    <TransportRequest>YES</TransportRequest>
+  </RosterPlan>
+  <RosterPlan>
+    <ShiftType>H</ShiftType>
+    <Code>MS10</Code>
+    <TransportRequest>OFF</TransportRequest>
+  </RosterPlan>
+  <RosterPlan>
+    <ShiftType>GS</ShiftType>
+    <Code>MS05</Code>
+    <TransportRequest>NO</TransportRequest>
+  </RosterPlan>
+  <RosterPlan>
+    <ShiftType>NA</ShiftType>
+    <Code>MS05</Code>
+    <TransportRequest>NO</TransportRequest>
+  </RosterPlan>
+  <RosterPlan />
+  <RosterPlan />
+  <RosterPlan />
+  <RosterPlan />
+  <RosterPlan />
+  <RosterPlan />
+  <RosterPlan />
+  <RosterPlan />
+  <RosterPlan />
+</DocumentElement>
