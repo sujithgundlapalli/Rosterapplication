@@ -90,7 +90,7 @@ namespace RosterCSV
 
                     string filePath = txtBrowseDestinationSheet.Text + "\\" + txtCSVFileName.Text + ".xlsx";
                     string delimiter = ",";
-
+                    string temp = "";
                     if (dtexcelData != null && dtexcelData.Rows.Count > 0 && dtexcelData.Columns.Count > 0)
                     {
                         string[][] output = new string[][]

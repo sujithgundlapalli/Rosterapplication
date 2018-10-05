@@ -42,3 +42,6 @@ D:\MyVM\__Storage\Codes\RosterCSVApplication\RosterCSV\obj\Debug\RosterCSV.NoCAB
 D:\MyVM\__Storage\Codes\RosterCSVApplication\RosterCSV\obj\Debug\RosterCSV.Properties.Resources.resources
 D:\MyVM\__Storage\Codes\RosterCSVApplication\RosterCSV\obj\Debug\RosterCSV.ShiftSettings.resources
 D:\MyVM\__Storage\Codes\RosterCSVApplication\RosterCSV\obj\Debug\RosterCSV.csproj.GenerateResource.Cache
+D:\MyVM\__Storage\Codes\GitProjects\RosterCSVApplication\RosterCSV\bin\Debug\RosterCSV.exe.config
+D:\MyVM\__Storage\Codes\GitProjects\RosterCSVApplication\RosterCSV\obj\Debug\RosterCSV.exe
+D:\MyVM\__Storage\Codes\GitProjects\RosterCSVApplication\RosterCSV\obj\Debug\RosterCSV.pdb
